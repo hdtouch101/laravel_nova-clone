@@ -1,1 +1,1 @@
-# laravel_nova-clone
+# laravel_nova
